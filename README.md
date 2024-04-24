@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hello, I'm Andres 👋
 <a href="https://www.linkedin.com/in/andres-amaro1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I am a student with a profound interest in technology and a dedication to learning more about cybersecurity.
+I am currently a Cybersecurity & Information Assurance student at Western Governors University with a profound interest in technology and a dedication to learning more about cybersecurity.
 
 ## Objective
 
