@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 I am currently a Cybersecurity & Information Assurance student at Western Governors University with a profound interest in technology and a dedication to learning more about cybersecurity.
 
+<!--
+
 ## Objective
 
 My journey in cybersecurity has led me to develop a passion for learning, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+-->
 
 ## Certifications
 
