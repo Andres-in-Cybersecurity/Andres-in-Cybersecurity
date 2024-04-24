@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -25,7 +22,7 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 
 -->
 
-## Certifications
+## Certifications Obtained
 
 <div>
 <a href="https://www.credly.com/badges/053e9cb2-28a0-428c-9825-f8f4bfda0a28"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
@@ -36,10 +33,27 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 <a href="https://www.credly.com/badges/6d2c9dad-b910-4326-96d7-c7d98a03d37e"><img src="https://img.shields.io/badge/-CCNA%3A%20Intro%20to%20Networks-FF0000?style=for-the-badge&logo=Cisco&logoColor=white"/></a>
 </div>
 
+### Certifications In Progress (2024)
+- Google Cybersecurity
+- CompTIA Linux+
+
+<!--
+
+- Blue Team Level 1
+- TCM PJPT
+- Cisco CCNA
+- AZ-500
+- SC-200
+
+-->
+
 ## 🌱 I’m currently learning
 
 - Linux
 - Azure
+
+## 🔭 I’m currently working on
+Hands-on projects, stay tuned...
 
 <!--
 
