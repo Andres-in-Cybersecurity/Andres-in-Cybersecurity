@@ -52,7 +52,7 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 - Linux
 - Azure
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently working on 👨‍💻
 Hands-on projects, stay tuned...
 
 <!--
