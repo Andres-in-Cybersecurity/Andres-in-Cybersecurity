@@ -7,11 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -22,9 +19,7 @@ I am currently a Cybersecurity & Information Assurance student at Western Govern
 
 ## Objective
 
-<!--
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
--->
+My journey in cybersecurity has led me to develop a passion for learning, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Certifications
 
@@ -39,9 +34,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## 🌱 I’m currently learning
 
-## Skills
+- Linux
+- Azure
 
 <!--
+
+## Skills
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -50,11 +49,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 -->
 
-## Tools
-
 <!--
+
+## Tools
 
 ### Network
 <div>
@@ -75,10 +75,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
 -->
 
-## Projects
 <!--
+
+## Projects
+
 - Detection Lab
 - SOC Automation Project
+
 -->
