@@ -34,6 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.credly.com/badges/0e70fd7e-b193-4cc2-bf8e-777dfd160fff"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/77db4139-f18d-45d2-ba86-2024258b9cd4"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/c0a9a2db-c36a-4c9c-8388-14b41fbaf036"><img src="https://img.shields.io/badge/-Google_IT_Support-006400?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.credly.com/badges/6d2c9dad-b910-4326-96d7-c7d98a03d37e"><img src="https://img.shields.io/badge/-CCNA%3A%20Intro%20to%20Networks-FF0000?style=for-the-badge&logo=Cisco&logoColor=white"/></a>
 </div>
 
 ## Skills
