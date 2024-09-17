@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 # Hello, I'm Andres 👋
 <a href="https://www.linkedin.com/in/andres-amaro1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I am currently a Cybersecurity & Information Assurance undergrad student at Western Governors University with a profound interest in technology and a dedication to learning more about cybersecurity.
+I am an incoming Cyber Operations & Resilience undergrad student at Boise State University with a profound interest in technology and a dedication to learning more about cybersecurity.
 
 <!--
 
@@ -50,7 +50,12 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 ## 🌱 I’m currently learning
 
 - Linux
+
+<!--
+
 - Azure
+
+-->
 
 ## 🔭 I’m currently working on 👨‍💻
 Hands-on projects, stay tuned...
