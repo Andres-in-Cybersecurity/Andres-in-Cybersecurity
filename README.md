@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 # Hello, I'm Andres 👋
 <a href="https://www.linkedin.com/in/andres-amaro1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-2e3440?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/360563)
+
 
 I am an incoming Cyber Operations & Resilience undergrad student at Boise State University with a profound interest in technology and a dedication to learning more about cybersecurity.
 
