@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Let’s Defend](https://img.shields.io/badge/Let’s_Defend-%39FF14?style=for-the-badge&logo=Let’s-Defend&logoColor=white)](https://app.letsdefend.io/user/ElGeneral)
 
 
-I am an incoming Cyber Operations & Resilience undergrad student at Boise State University with a profound interest in technology and a dedication to learning more about cybersecurity.
+I am a Cyber Operations & Resilience undergrad student at Boise State University with a profound interest in technology and a dedication to learning more about cybersecurity.
 
 <!--
 
