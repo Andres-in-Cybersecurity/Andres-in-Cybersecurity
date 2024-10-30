@@ -48,10 +48,11 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 -->
 
 ## 🌱 I’m currently learning
-
 - Linux
 
 <!--
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=360563" style='border:none;'></iframe>
 
 - Azure
 
