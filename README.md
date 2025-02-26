@@ -36,9 +36,10 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 <a href="https://www.credly.com/badges/6d2c9dad-b910-4326-96d7-c7d98a03d37e"><img src="https://img.shields.io/badge/-CCNA%3A%20Intro%20to%20Networks-007ACC?style=for-the-badge&logo=Cisco&logoColor=white"/></a>
 </div>
 
-### Certifications In Progress (2024)
+### Certifications In Progress (2025)
 - Google Cybersecurity
-- CompTIA Linux+
+- Linux Foundation Certified System Administrator (LFCS)
+- Practical SOC Analyst Associate (PSAA)
 
 <!--
 
@@ -47,6 +48,7 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 - Cisco CCNA
 - AZ-500
 - SC-200
+- CompTIA Linux+
 
 -->
 
