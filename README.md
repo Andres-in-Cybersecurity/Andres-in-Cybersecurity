@@ -38,9 +38,10 @@ My journey in cybersecurity has led me to develop a passion for learning, and I 
 -->
 </div>
 
-### Certifications In Progress (2025)
+### Certifications In Progress (2025/2026)
 - Linux Foundation Certified System Administrator (LFCS)
 - Practical SOC Analyst Associate (PSAA)
+- Practical SOC Analyst Professional (PSAP)
 
 <!--
 - Blue Team Level 1
